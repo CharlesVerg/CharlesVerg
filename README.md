@@ -14,9 +14,6 @@ My name is Charles, I am a space systems engineer passionate about space explora
 
 ## Projects & Contributions
 
-- 🚀 [Project 1](#) - Brief description of the project.
-- 🔬 [Project 2](#) - Another interesting project.
-- 💡 [Open-Source Contributions](#) - Contributions to the community.
 
 ## Connect with me
 
